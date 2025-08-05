@@ -54,7 +54,7 @@ export function HeroSection() {
                     transition={{ duration: 1.2 }}
                     className="w-full lg:w-1/2 text-center lg:text-left"
                 >
-                    <h1 className="text-6xl md:text-7xl font-extrabold leading-tight drop-shadow-lg mb-6">
+                    <h1 className="text-4xl sm:text-5xl md:text-7xl font-extrabold leading-tight drop-shadow-lg mb-6">
                         <span className="text-white">I&apos;m </span>
                         <span className="relative inline-block text-transparent bg-clip-text bg-gradient-to-r from-[#d32c2c] to-[#ff5e5e]">
                             Nayan Shelke
@@ -93,17 +93,6 @@ export function HeroSection() {
 
                     {/* Social Icons */}
                     <div className="flex justify-center lg:justify-start gap-8 mt-4">
-                        {/* Youtube */}
-                        {/* <a
-                            href="https://www.youtube.com/@AssassinsARMY"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            aria-label="Youtube"
-                            className="flex items-center justify-center w-14 h-14 rounded-full border-2 border-[#d32626] text-white transition-all duration-300 hover:bg-[#cf3838] hover:shadow-[0_0_12px_#d32626] hover:scale-110"
-                        >
-                            <FaYoutube size={24} />
-                        </a> */}
-
                         {/* Discord */}
                         <a
                             href="https://discord.gg/assassins"

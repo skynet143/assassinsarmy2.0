@@ -35,9 +35,9 @@ function ContactUs() {
             Let’s Connect!
           </h4>
           <p className="text-gray-300 mb-6 leading-relaxed">
-            Whether you're seeking pro tips in Free Fire, looking for
-            collaboration opportunities, or simply want to say hello — I'm
-            always up for a chat. Let’s create something awesome together!
+            Whether you&apos;re seeking pro tips in Free Fire, looking for
+            collaboration opportunities, or simply want to say hello — I&apos;m
+            always up for a chat. Let&apos;s create something awesome together!
           </p>
 
           <div className="space-y-5 text-gray-300">
